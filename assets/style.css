@@ -4,7 +4,7 @@ body {
   line-height: 1;
 }
 
-textarea {
+.textarea {
   background: transparent;
   border: none;
   resize: none;
@@ -28,12 +28,26 @@ textarea {
 .time-block {
   text-align: center;
   border-radius: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+  
+}
+
+ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(255, 255, 255);
+  
 }
 
 .hour {
@@ -62,7 +76,8 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
-  color: white;
+  color: rgb(255, 255, 255);
+  
 }
 
 .saveBtn i:hover {
