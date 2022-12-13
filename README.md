@@ -25,8 +25,8 @@ The app should:
 N/A
 
 ## Installation
-* Live link to website for review. https://norrinradd8.github.io/
-* GitHub URL. https://github.com/norrinRadd8/
+* Live link to website for review. https://norrinradd8.github.io/daily-planner-app/
+* GitHub URL. https://github.com/norrinRadd8/daily-planner-app.git
 
 ## Usage
 
